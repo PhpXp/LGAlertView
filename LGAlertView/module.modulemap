@@ -1,0 +1,16 @@
+module LGAlertView {
+    umbrella header "LGAlertView.h"
+
+    private header "LGAlertViewButton.h"
+    private header "LGAlertViewCell.h"
+    private header "LGAlertViewController.h"
+    private header "LGAlertViewHelper.h"
+    private header "LGAlertViewShadowView.h"
+    private header "LGAlertViewTextField.h"
+    private header "LGAlertViewWindow.h"
+    private header "LGAlertViewWindowContainer.h"
+    private header "LGAlertViewWindowsObserver.h"
+    private header "UIWindow+LGAlertView.h"
+
+    export *
+}
